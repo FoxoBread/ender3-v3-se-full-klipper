@@ -1,6 +1,6 @@
 # ender3-v3-se-full-klipper - docker
 
-Klipper config for Creality Ender-3 V3 SE under docker.  
+Klipper config for Creality Ender-3 V3 SE for running in docker.  
 See https://github.com/mkuf/prind
 
 For `CR4NS200320C13_32_MS35774_GD303RET6` mainboard (M4 label).
