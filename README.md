@@ -7,7 +7,7 @@ For `CR4NS200320C13_32_MS35774_GD303RET6` mainboard (M4 label).
 
 
 ## Precompiled binaries
-* `klipper.bin`   - for connection via type-c connector (USART1 PA10/PA9).
+* `klipper.bin`   - serial over onboard USB type-C `(USART1 PA10/PA9)`.
 
 Please note: I have not tried other serial connections.  
 You are on your own for getting it to work with docker.
