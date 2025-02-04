@@ -16,9 +16,9 @@ You are on your own for getting it to work with docker.
 1. Clone the [base Klipper repository](https://github.com/Klipper3d/klipper).
 2. `make menuconfig` and set options (see releases or top of `printer.cfg`.)
 3. Place `klipper.bin` from `out/` in root of SD card.
-4. Power on the printer and check for successful connection with controlling machine.
+4. Power on the printer and check for successful connection with controlling machine. (You may need to fiddle with UDEV.)
 
-## Post installation steps:
+## Post flashing steps:
 1. Setting UDEV permissions correctly for serial port.
 2. Bed mesh calibration
 3. Manually calibrate Z-offset
