@@ -13,7 +13,7 @@ Please note: I have not tried other serial connections.
 You are on your own for getting it to work with docker.
 
 ## Building Klipper from source and flashing
-1. Clone the base Klipper repository.
+1. Clone the [base Klipper repository](https://github.com/Klipper3d/klipper).
 2. `make menuconfig` and set options (see releases or top of `printer.cfg`.)
 3. Place `klipper.bin` from `out/` in root of SD card.
 4. Power on the printer and check for successful connection with controlling machine.
